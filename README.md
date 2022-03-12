@@ -5,3 +5,4 @@
 
 - 그리드 사용
 - 시계와 클릭하면 다음 인용구가 나오는 간단한 js 기능이 포함된 정적 페이지
+https://kj1614.github.io/self-introduce-page/
