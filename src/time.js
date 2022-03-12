@@ -18,6 +18,7 @@ function setDateTime()
     const days = date.getDate();
     const hours = date.getHours();
     const minutes = date.getMinutes();
+    const seconds = date.getSeconds();
     timeDate.innerText =
     `${year}.${
         month < 10 ? `0${month}` : month}.${
