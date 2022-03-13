@@ -203,6 +203,7 @@ img {
   align-items: center;
   font-size: 90%;
   position: relative;
+  transition: ease-in-out 0.2s;
 }
 
 #quote > div {
@@ -226,6 +227,11 @@ img {
   position: absolute;
   left: 65%;
   top: 35%;
+}
+
+#quote:hover {
+  background-color: #d3c4d4;
+  cursor: pointer;
 }
 
 #name {
